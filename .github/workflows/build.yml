@@ -17,7 +17,7 @@ jobs:
       with:
           kernel-url: https://github.com/frnk333/ultrakernel
           kernel-dir: a12s
-          kernel-branch: exyos850
+          kernel-branch: exynos850
           config: exynos850-a12snsxx_defconfig
           arch: arm64
           aosp-gcc: true
